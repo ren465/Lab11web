@@ -13,6 +13,7 @@ Mengaktifkan mode debugging untuk memudahkan mengetahui pesan eror apabila terja
 ![3](https://user-images.githubusercontent.com/81818422/122624008-8cd8ff00-d0c8-11eb-984f-ae14b828821f.png)
 Contoh pesan eror dengan menghilangkan titik koma di akhir kode
 ![4](https://user-images.githubusercontent.com/81818422/122624084-dd505c80-d0c8-11eb-8276-a2542a43f03e.png)
+
 ![5](https://user-images.githubusercontent.com/81818422/122624088-df1a2000-d0c8-11eb-9314-bbe4d2a16ae3.png)
 # Langkah 5
 Mengecek route, menambahkan controller baru dan menambahkan route baru
