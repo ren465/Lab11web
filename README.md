@@ -16,7 +16,7 @@ Mengaktifkan mode debugging untuk memudahkan mengetahui pesan eror apabila terja
 
 ![5](https://user-images.githubusercontent.com/81818422/122624088-df1a2000-d0c8-11eb-9314-bbe4d2a16ae3.png)
 # Langkah 5
-Mengecek route, menambahkan controller baru dan menambahkan route baru
+# Mengecek route, menambahkan controller baru dan menambahkan route baru
 ![6](https://user-images.githubusercontent.com/81818422/122624464-80ee3c80-d0ca-11eb-8f2a-5dffdd0317f6.png)
 ![7](https://user-images.githubusercontent.com/81818422/122624465-83509680-d0ca-11eb-911b-0fb2e488cc0a.png)
 # Langkah 6
